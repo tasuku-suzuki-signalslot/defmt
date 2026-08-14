@@ -544,6 +544,7 @@ Initial release
 
 ### [defmt-print-next]
 
+* [#1095](https://github.com/knurling-rs/defmt/pull/1095) Exit on EOF instead of busy-looping when the serial device is unplugged or the tcp connection is closed
 
 ### [defmt-print-v1.1.0] (2026-05-12)
 
